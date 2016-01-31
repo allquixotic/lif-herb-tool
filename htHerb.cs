@@ -39,7 +39,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[3] = new ScriptObject(htHerbAureusMagistrum)
+  herb[4] = new ScriptObject(htHerbAureusMagistrum)
   {
     class = htHerb;
     herbId = 2;
