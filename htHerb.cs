@@ -5,7 +5,7 @@
 new ScriptObject(ht)
 {
   class = HerbTool;
-  herb[0] = new ScriptObject(htHerbPitakuKoro)
+  herb[51] = new ScriptObject(htHerbPitakuKoro)
   {
     class = htHerb;
     herbId = 0;
@@ -22,7 +22,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[1] = new ScriptObject(htHerbAlbusViduae)
+  herb[2] = new ScriptObject(htHerbAlbusViduae)
   {
     class = htHerb;
     herbId = 1;
@@ -39,7 +39,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[2] = new ScriptObject(htHerbAureusMagistrum)
+  herb[3] = new ScriptObject(htHerbAureusMagistrum)
   {
     class = htHerb;
     herbId = 2;
@@ -56,7 +56,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[3] = new ScriptObject(htHerbSapientaMantis)
+  herb[58] = new ScriptObject(htHerbSapientaMantis)
   {
     class = htHerb;
     herbId = 3;
@@ -73,7 +73,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[4] = new ScriptObject(htHerbNocteLumen)
+  herb[45] = new ScriptObject(htHerbNocteLumen)
   {
     class = htHerb;
     herbId = 4;
@@ -90,7 +90,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[5] = new ScriptObject(htHerbChoreaIram)
+  herb[8] = new ScriptObject(htHerbChoreaIram)
   {
     class = htHerb;
     herbId = 5;
@@ -107,7 +107,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[6] = new ScriptObject(htHerbDesertusSmilax)
+  herb[11] = new ScriptObject(htHerbDesertusSmilax)
   {
     class = htHerb;
     herbId = 6;
@@ -124,7 +124,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[7] = new ScriptObject(htHerbPungentibusChorea)
+  herb[52] = new ScriptObject(htHerbPungentibusChorea)
   {
     class = htHerb;
     herbId = 7;
@@ -141,7 +141,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[8] = new ScriptObject(htHerbMonsBastardus)
+  herb[40] = new ScriptObject(htHerbMonsBastardus)
   {
     class = htHerb;
     herbId = 8;
@@ -158,7 +158,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[9] = new ScriptObject(htHerbFiliaPrati)
+  herb[18] = new ScriptObject(htHerbFiliaPrati)
   {
     class = htHerb;
     herbId = 9;
@@ -175,7 +175,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[10] = new ScriptObject(htHerbAdipemNebulo)
+  herb[1] = new ScriptObject(htHerbAdipemNebulo)
   {
     class = htHerb;
     herbId = 10;
@@ -192,7 +192,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[11] = new ScriptObject(htHerbRosaKingsa)
+  herb[56] = new ScriptObject(htHerbRosaKingsa)
   {
     class = htHerb;
     herbId = 11;
@@ -209,7 +209,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[12] = new ScriptObject(htHerbBacceHamsa)
+  herb[5] = new ScriptObject(htHerbBacceHamsa)
   {
     class = htHerb;
     herbId = 12;
@@ -226,7 +226,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[13] = new ScriptObject(htHerbSuryodayabhagya)
+  herb[60] = new ScriptObject(htHerbSuryodayabhagya)
   {
     class = htHerb;
     herbId = 13;
@@ -243,7 +243,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[14] = new ScriptObject(htHerbSaltareDiabolus)
+  herb[57] = new ScriptObject(htHerbSaltareDiabolus)
   {
     class = htHerb;
     herbId = 14;
@@ -260,7 +260,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[15] = new ScriptObject(htHerbKurupaAndhere)
+  herb[34] = new ScriptObject(htHerbKurupaAndhere)
   {
     class = htHerb;
     herbId = 15;
@@ -277,7 +277,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[16] = new ScriptObject(htHerbTopasaMaidana)
+  herb[61] = new ScriptObject(htHerbTopasaMaidana)
   {
     class = htHerb;
     herbId = 16;
@@ -294,7 +294,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[17] = new ScriptObject(htHerbRaktaStema)
+  herb[53] = new ScriptObject(htHerbRaktaStema)
   {
     class = htHerb;
     herbId = 17;
@@ -311,7 +311,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[18] = new ScriptObject(htHerbPhlavarPharest)
+  herb[50] = new ScriptObject(htHerbPhlavarPharest)
   {
     class = htHerb;
     herbId = 18;
@@ -328,7 +328,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[19] = new ScriptObject(htHerbMaunaBoba)
+  herb[38] = new ScriptObject(htHerbMaunaBoba)
   {
     class = htHerb;
     herbId = 19;
@@ -345,7 +345,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[20] = new ScriptObject(htHerbFalcemMalleorum)
+  herb[16] = new ScriptObject(htHerbFalcemMalleorum)
   {
     class = htHerb;
     herbId = 20;
@@ -362,7 +362,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[21] = new ScriptObject(htHerbCurailaJangha)
+  herb[9] = new ScriptObject(htHerbCurailaJangha)
   {
     class = htHerb;
     herbId = 21;
@@ -379,7 +379,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[22] = new ScriptObject(htHerbAquilaPeccatum)
+  herb[3] = new ScriptObject(htHerbAquilaPeccatum)
   {
     class = htHerb;
     herbId = 22;
@@ -396,7 +396,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[23] = new ScriptObject(htHerbNequissimumPropodium)
+  herb[44] = new ScriptObject(htHerbNequissimumPropodium)
   {
     class = htHerb;
     herbId = 23;
@@ -413,7 +413,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[24] = new ScriptObject(htHerbViridiursae)
+  herb[65] = new ScriptObject(htHerbViridiursae)
   {
     class = htHerb;
     herbId = 24;
@@ -430,7 +430,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[25] = new ScriptObject(htHerbMunchaVana)
+  herb[41] = new ScriptObject(htHerbMunchaVana)
   {
     class = htHerb;
     herbId = 25;
@@ -447,7 +447,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[26] = new ScriptObject(htHerbCaeciCustos)
+  herb[7] = new ScriptObject(htHerbCaeciCustos)
   {
     class = htHerb;
     herbId = 26;
@@ -464,7 +464,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[27] = new ScriptObject(htHerbErrantiaLudaeo)
+  herb[14] = new ScriptObject(htHerbErrantiaLudaeo)
   {
     class = htHerb;
     herbId = 27;
@@ -481,7 +481,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[28] = new ScriptObject(htHerbOscularetur)
+  herb[46] = new ScriptObject(htHerbOscularetur)
   {
     class = htHerb;
     herbId = 28;
@@ -498,7 +498,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[29] = new ScriptObject(htHerbMalaFugam)
+  herb[37] = new ScriptObject(htHerbMalaFugam)
   {
     class = htHerb;
     herbId = 29;
@@ -515,7 +515,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[30] = new ScriptObject(htHerbCurvaManus)
+  herb[10] = new ScriptObject(htHerbCurvaManus)
   {
     class = htHerb;
     herbId = 30;
@@ -532,7 +532,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[31] = new ScriptObject(htHerbPecuariusVentus)
+  herb[47] = new ScriptObject(htHerbPecuariusVentus)
   {
     class = htHerb;
     herbId = 31;
@@ -549,7 +549,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[32] = new ScriptObject(htHerbPetraStellam)
+  herb[49] = new ScriptObject(htHerbPetraStellam)
   {
     class = htHerb;
     herbId = 32;
@@ -566,7 +566,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[33] = new ScriptObject(htHerbAcerbaMoretum)
+  herb[0] = new ScriptObject(htHerbAcerbaMoretum)
   {
     class = htHerb;
     herbId = 33;
@@ -583,7 +583,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[34] = new ScriptObject(htHerbDulcisRadix)
+  herb[12] = new ScriptObject(htHerbDulcisRadix)
   {
     class = htHerb;
     herbId = 34;
@@ -600,7 +600,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[35] = new ScriptObject(htHerbKromentaSalicia)
+  herb[33] = new ScriptObject(htHerbKromentaSalicia)
   {
     class = htHerb;
     herbId = 35;
@@ -617,7 +617,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[36] = new ScriptObject(htHerbVertatoZonda)
+  herb[64] = new ScriptObject(htHerbVertatoZonda)
   {
     class = htHerb;
     herbId = 36;
@@ -634,7 +634,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[37] = new ScriptObject(htHerbKhalariGratsi)
+  herb[32] = new ScriptObject(htHerbKhalariGratsi)
   {
     class = htHerb;
     herbId = 37;
@@ -651,7 +651,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[38] = new ScriptObject(htHerbRemertaPoskot)
+  herb[54] = new ScriptObject(htHerbRemertaPoskot)
   {
     class = htHerb;
     herbId = 38;
@@ -668,7 +668,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[39] = new ScriptObject(htHerbHolmatuStazo)
+  herb[24] = new ScriptObject(htHerbHolmatuStazo)
   {
     class = htHerb;
     herbId = 39;
@@ -685,7 +685,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[40] = new ScriptObject(htHerbKaledaMesgano)
+  herb[30] = new ScriptObject(htHerbKaledaMesgano)
   {
     class = htHerb;
     herbId = 40;
@@ -702,7 +702,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[41] = new ScriptObject(htHerbFakhaRudob)
+  herb[15] = new ScriptObject(htHerbFakhaRudob)
   {
     class = htHerb;
     herbId = 41;
@@ -719,7 +719,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[42] = new ScriptObject(htHerbKacaroVilko)
+  herb[29] = new ScriptObject(htHerbKacaroVilko)
   {
     class = htHerb;
     herbId = 42;
@@ -736,7 +736,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[43] = new ScriptObject(htHerbFassariTolge)
+  herb[17] = new ScriptObject(htHerbFassariTolge)
   {
     class = htHerb;
     herbId = 43;
@@ -753,7 +753,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[44] = new ScriptObject(htHerbSarmentoGaute)
+  herb[59] = new ScriptObject(htHerbSarmentoGaute)
   {
     class = htHerb;
     herbId = 44;
@@ -770,7 +770,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[45] = new ScriptObject(htHerbPersetuHara)
+  herb[48] = new ScriptObject(htHerbPersetuHara)
   {
     class = htHerb;
     herbId = 45;
@@ -787,7 +787,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[46] = new ScriptObject(htHerbHallatraKronye)
+  herb[23] = new ScriptObject(htHerbHallatraKronye)
   {
     class = htHerb;
     herbId = 46;
@@ -804,7 +804,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[47] = new ScriptObject(htHerbLasterKutta)
+  herb[36] = new ScriptObject(htHerbLasterKutta)
   {
     class = htHerb;
     herbId = 47;
@@ -821,7 +821,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[48] = new ScriptObject(htHerbUtrokkaKhuru)
+  herb[63] = new ScriptObject(htHerbUtrokkaKhuru)
   {
     class = htHerb;
     herbId = 48;
@@ -838,7 +838,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[49] = new ScriptObject(htHerbKyasagaSherl)
+  herb[35] = new ScriptObject(htHerbKyasagaSherl)
   {
     class = htHerb;
     herbId = 49;
@@ -855,7 +855,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[50] = new ScriptObject(htHerbJukolaBeshaar)
+  herb[28] = new ScriptObject(htHerbJukolaBeshaar)
   {
     class = htHerb;
     herbId = 50;
@@ -872,7 +872,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[51] = new ScriptObject(htHerbRipyoteQuamisy)
+  herb[55] = new ScriptObject(htHerbRipyoteQuamisy)
   {
     class = htHerb;
     herbId = 51;
@@ -889,7 +889,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[52] = new ScriptObject(htHerbFuskegtraXelay)
+  herb[20] = new ScriptObject(htHerbFuskegtraXelay)
   {
     class = htHerb;
     herbId = 52;
@@ -906,7 +906,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[53] = new ScriptObject(htHerbBurmentaWallo)
+  herb[6] = new ScriptObject(htHerbBurmentaWallo)
   {
     class = htHerb;
     herbId = 53;
@@ -923,7 +923,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[54] = new ScriptObject(htHerbFohattaTorn)
+  herb[19] = new ScriptObject(htHerbFohattaTorn)
   {
     class = htHerb;
     herbId = 54;
@@ -940,7 +940,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[55] = new ScriptObject(htHerbDustaliKrabo)
+  herb[13] = new ScriptObject(htHerbDustaliKrabo)
   {
     class = htHerb;
     herbId = 55;
@@ -957,7 +957,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[56] = new ScriptObject(htHerbGratiasSivara)
+  herb[22] = new ScriptObject(htHerbGratiasSivara)
   {
     class = htHerb;
     herbId = 56;
@@ -974,7 +974,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[57] = new ScriptObject(htHerbMemenAnik)
+  herb[39] = new ScriptObject(htHerbMemenAnik)
   {
     class = htHerb;
     herbId = 57;
@@ -991,7 +991,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[58] = new ScriptObject(htHerbGortakaMessen)
+  herb[21] = new ScriptObject(htHerbGortakaMessen)
   {
     class = htHerb;
     herbId = 58;
@@ -1008,7 +1008,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[59] = new ScriptObject(htHerbKalyaNori)
+  herb[31] = new ScriptObject(htHerbKalyaNori)
   {
     class = htHerb;
     herbId = 59;
@@ -1025,7 +1025,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[60] = new ScriptObject(htHerbUliyaSundara)
+  herb[62] = new ScriptObject(htHerbUliyaSundara)
   {
     class = htHerb;
     herbId = 60;
@@ -1042,7 +1042,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[61] = new ScriptObject(htHerbJenaroVannakam)
+  herb[27] = new ScriptObject(htHerbJenaroVannakam)
   {
     class = htHerb;
     herbId = 61;
@@ -1059,7 +1059,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[62] = new ScriptObject(htHerbHuryosaGulla)
+  herb[25] = new ScriptObject(htHerbHuryosaGulla)
   {
     class = htHerb;
     herbId = 62;
@@ -1076,7 +1076,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[63] = new ScriptObject(htHerbItalIranta)
+  herb[26] = new ScriptObject(htHerbItalIranta)
   {
     class = htHerb;
     herbId = 63;
@@ -1093,7 +1093,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[64] = new ScriptObject(htHerbMurkhaBola)
+  herb[42] = new ScriptObject(htHerbMurkhaBola)
   {
     class = htHerb;
     herbId = 64;
@@ -1110,7 +1110,7 @@ new ScriptObject(ht)
     effect3 = "Unknown";
   };
 
-  herb[65] = new ScriptObject(htHerbNaraenPandanomo)
+  herb[43] = new ScriptObject(htHerbNaraenPandanomo)
   {
     class = htHerb;
     herbId = 65;
